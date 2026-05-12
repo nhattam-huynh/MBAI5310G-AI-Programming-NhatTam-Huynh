@@ -1,8 +1,13 @@
 # MBAI 5310G – AI Programming
 ## Student Information
 Name: Nhat Tam Huynh
+
+Student ID: 101042941
+
 Course: MBAI 5310G – AI Programming
+
 Term: Spring 2026
+
 Instructor: Zahra Atf
 ## Repository Overview
 This repository contains my weekly applied coding tasks and final project for MBAI 5310G. The work focuses on AI programming, machine learning, deep learning, NLP, model evaluation, GitHub-based documentation, and responsible AI reflection.
