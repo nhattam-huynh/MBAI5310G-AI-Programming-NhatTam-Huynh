@@ -42,7 +42,7 @@ MBAI5310G-AI-Programming-FirstName-LastName/
 │ └── data_description.md
 │
 └── resources/
-└── optional_notes.md
+  └── optional_notes.md
 ```
 ## Tools Used
 - Python
