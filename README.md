@@ -12,6 +12,7 @@ Instructor: Zahra Atf
 ## Repository Overview
 This repository contains my weekly applied coding tasks and final project for MBAI 5310G. The work focuses on AI programming, machine learning, deep learning, NLP, model evaluation, GitHub-based documentation, and responsible AI reflection.
 ## Repository Structure
+```
 MBAI5310G-AI-Programming-FirstName-LastName/
 │
 ├── README.md
@@ -42,6 +43,7 @@ MBAI5310G-AI-Programming-FirstName-LastName/
 │
 └── resources/
 └── optional_notes.md
+```
 ## Tools Used
 - Python
 - Jupyter Notebook / Google Colab
