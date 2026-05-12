@@ -12,9 +12,36 @@ Instructor: Zahra Atf
 ## Repository Overview
 This repository contains my weekly applied coding tasks and final project for MBAI 5310G. The work focuses on AI programming, machine learning, deep learning, NLP, model evaluation, GitHub-based documentation, and responsible AI reflection.
 ## Repository Structure
-- assignments/: weekly applied tasks
-- final_project/: final project notebook, paper, outputs, and documentation
-- resources/: optional notes or supporting resources
+MBAI5310G-AI-Programming-FirstName-LastName/
+│
+├── README.md
+│
+├── assignments/
+│ ├── week-01/
+│ │ ├── README.md
+│ │ ├── week01_notebook.ipynb
+│ │ ├── outputs/
+│ │ └── data_description.md
+│ │
+│ ├── week-02/
+│ │ ├── README.md
+│ │ ├── week02_notebook.ipynb
+│ │ ├── outputs/
+│ │ └── data_description.md
+│ │
+│ └── week-03/
+│ └── ...
+│
+├── final_project/
+│ ├── README.md
+│ ├── final_project_notebook.ipynb
+│ ├── paper/
+│ ├── outputs/
+│ ├── figures/
+│ └── data_description.md
+│
+└── resources/
+└── optional_notes.md
 ## Tools Used
 - Python
 - Jupyter Notebook / Google Colab
