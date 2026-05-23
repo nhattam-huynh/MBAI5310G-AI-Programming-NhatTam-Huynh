@@ -1,21 +1,29 @@
 # Week 02 – Building an End-to-End ML Pipeline
 ## Task Overview
-Briefly describe the purpose of this weekly task.
+Build a basic machine learning pipeline and train a simple baseline model using Logistic Regression 
 ## Files in This Folder
-- [notebook_name].ipynb: main notebook for the task
-- outputs/: figures, screenshots, or result files if applicable
-- data_description.md: dataset source and notes if applicable
+- MBAI_5310_Assignment_2_Nhat_Tam_Huynh.ipynb: main notebook for the task
+- hotel_booking_cancellation_dataset.xlsx: main dataset for the task
 ## Dataset or Input Source
-Describe the dataset or input source. Include a link or citation if the dataset is
-public. Do not upload private or restricted data.
+The dataset that I used for this purpose was "hotel_booking_cancellation_dataset", which contains customer and booking information such as age, room type, booking channel, lead time, total value, and loyalty status, along with a label indicating whether the booking was ultimately cancelled.
 ## Methods Used
-Briefly list the methods used, such as preprocessing, train/test split, logistic
-regression, random forest, clustering, neural network, CNN, NLP, or evaluation metrics.
+I used 10 main pipeline steps:
+1. Load the dataset
+2. Inspect the dataset
+3. Understand the business problem, machine learning problem, and prediction goal
+4. Clean the data
+5. Define features (X) and target (y)
+6. Slipt the dataset into training and testing
+7. Preprocessing
+8. Build a baseline model
+9. Evaluate the model
+10. Interprete the result
 ## Key Results
-Summarize the main outputs or findings in 3-5 bullet points.
-## Responsible AI Reflection
-Briefly discuss limitations, possible bias, privacy concerns, interpretability, and
-whether human review would be needed before using the model in a real business context.
+The Logistic Regression model achieved an accuracy of approximately 93%, indicating that it correctly classifies the majority of bookings.
+## Limitation
+The dataset is small, so it may not generalize well to real-world customer data
 ## How to Run or Review
-Explain how the instructor can review the notebook. Example: Open the .ipynb file in
-GitHub or run it in Google Colab/Jupyter after installing the required libraries.
+To review the notebook, you should follow the steps below:
+1. Download two files in this folder: [1] MBAI_5310_Assignment_2_Nhat_Tam_Huynh.ipynb [2] hotel_booking_cancellation_dataset.xlsx
+2. Make sure to upload the dataset to the software you use to review this notebook
+3. Run the commands from top to bottom, consequently
