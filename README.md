@@ -21,14 +21,12 @@ MBAI5310G-AI-Programming-FirstName-LastName/
 │ ├── week-01/
 │ │ ├── README.md
 │ │ ├── week01_notebook.ipynb
-│ │ ├── outputs/
-│ │ └── data_description.md
+│ │ └── dataset.xlsx
 │ │
 │ ├── week-02/
 │ │ ├── README.md
-│ │ ├── week02_notebook.ipynb
-│ │ ├── outputs/
-│ │ └── data_description.md
+│ │ ├── week01_notebook.ipynb
+│ │ └── dataset.xlsx
 │ │
 │ └── week-03/
 │ └── ...
