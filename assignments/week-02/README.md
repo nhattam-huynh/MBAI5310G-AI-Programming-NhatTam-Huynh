@@ -13,11 +13,11 @@ I used 10 main pipeline steps:
 3. Understand the business problem, machine learning problem, and prediction goal
 4. Clean the data
 5. Define features (X) and target (y)
-6. Slipt the dataset into training and testing
+6. Split the dataset into training and testing
 7. Preprocessing
 8. Build a baseline model
 9. Evaluate the model
-10. Interprete the result
+10. Interpret the result
 ## Key Results
 The Logistic Regression model achieved an accuracy of approximately 93%, indicating that it correctly classifies the majority of bookings.
 ## Limitation
