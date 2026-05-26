@@ -2,11 +2,13 @@
 ## Task Overview
 Train and compare two classification models (Logistic Regression and SVM - Support Vector Machine)
 ## Structure
+```
 week-01/
 │
 ├── README.md
 ├── week03_notebook.ipynb
 └── dataset.xlsx
+```
 ## Files in This Folder
 - MBAI_5310_Assignment_3_Nhat_Tam_Huynh.ipynb: main notebook for the task
 - hotel_booking_cancellation_dataset.xlsx: main dataset for the task
