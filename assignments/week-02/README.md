@@ -1,6 +1,13 @@
 # Week 02 – Building an End-to-End ML Pipeline
 ## Task Overview
 Build a basic machine learning pipeline and train a simple baseline model using Logistic Regression 
+## Structure
+```
+week-01/
+├── README.md
+├── week01_notebook.ipynb
+└── dataset.xlsx
+```
 ## Files in This Folder
 - MBAI_5310_Assignment_2_Nhat_Tam_Huynh.ipynb: main notebook for the task
 - hotel_booking_cancellation_dataset.xlsx: main dataset for the task
