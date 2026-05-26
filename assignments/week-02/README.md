@@ -3,9 +3,9 @@
 Build a basic machine learning pipeline and train a simple baseline model using Logistic Regression 
 ## Structure
 ```
-week-01/
+week-02/
 ├── README.md
-├── week01_notebook.ipynb
+├── week02_notebook.ipynb
 └── dataset.xlsx
 ```
 ## Files in This Folder
