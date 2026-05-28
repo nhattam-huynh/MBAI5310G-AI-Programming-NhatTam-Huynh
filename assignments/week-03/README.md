@@ -3,7 +3,7 @@
 Train and compare two classification models (Logistic Regression and SVM - Support Vector Machine)
 ## Structure
 ```
-week-01/
+week-03/
 │
 ├── README.md
 ├── week03_notebook.ipynb
