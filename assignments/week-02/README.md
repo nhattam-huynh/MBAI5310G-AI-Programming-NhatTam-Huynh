@@ -6,6 +6,7 @@ Build a basic machine learning pipeline and train a simple baseline model using 
 week-02/
 ├── README.md
 ├── week02_notebook.ipynb
+├── report.pdf
 └── dataset.xlsx
 ```
 ## Files in This Folder
