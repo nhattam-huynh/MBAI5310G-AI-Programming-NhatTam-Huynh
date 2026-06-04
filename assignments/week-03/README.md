@@ -7,6 +7,7 @@ week-03/
 │
 ├── README.md
 ├── week03_notebook.ipynb
+├── report.pdf
 └── dataset.xlsx
 ```
 ## Files in This Folder
