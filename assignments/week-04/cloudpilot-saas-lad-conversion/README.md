@@ -8,8 +8,7 @@ week-04/
 ├── README.md
 ├── MBAI_5310_Assignment_4_Nhat_Tam_Huynh.ipynb
 ├── MBAI_5310_Assignment_4_Report_Nhat_Tam_Huynh.pdf
-├── cloudpilot_saas_lead_conversion_dataset.xlsx
-└── cloudpilot_saas_lead_conversion_business_plan.docx
+└── cloudpilot_saas_lead_conversion_dataset.xlsx
 ```
 
 ## Files in This Folder
