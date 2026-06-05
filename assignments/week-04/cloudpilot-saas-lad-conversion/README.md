@@ -16,7 +16,7 @@ week-04/
 
 - MBAI_5310_Assignment_4_Nhat_Tam_Huynh.ipynb: main notebook for the task
 - cloudpilot_saas_lead_conversion_dataset.xlsx: main dataset for the task
-- cloudpilot_saas_lead_conversion_business_plan.docx: business plan document describing CloudPilot CRM Solutions
+- MBAI_5310_Assignment_4_Report_tNhat_Tam_Huynh.: the report for the output
 
 ## Dataset or Input Source
 The dataset used for this assignment was cloudpilot_saas_lead_conversion_dataset.xlsx, which contains 380 lead records for a fictional B2B SaaS company. Features include lead source, company profile information (industry, region, company size), budget and plan preferences, engagement signals (email engagement score, product demo attendance, trial activity), and sales signals (sales calls, decision-maker involvement, pain point fit score), along with a binary label indicating whether the lead ultimately converted to a paying customer.
