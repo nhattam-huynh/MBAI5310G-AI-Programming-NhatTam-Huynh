@@ -1,4 +1,4 @@
-# MBAI 3150 – Assignment 5: K-Means Clustering Analysis
+# MBAI 5310 – Assignment 5: K-Means Clustering Analysis
 **SwiftShip Delivery Delay Dataset**
 
 ---
@@ -13,7 +13,7 @@ This assignment applies unsupervised machine learning (K-Means Clustering) to th
 
 | File | Description |
 |:-----|:------------|
-| `MBAI_3150_Assignment_5_Nhat_Tam_Huynh.ipynb` | Main Jupyter Notebook with all code and outputs |
+| `MBAI_5310_Assignment_5_Nhat_Tam_Huynh.ipynb` | Main Jupyter Notebook with all code and outputs |
 | `swiftship_delivery_delay_dataset.xlsx` | Raw dataset (355 shipment records, 16 columns) |
 | `business_plan_swiftship_delivery_delay.pdf` | Business context document for the dataset |
 | `README.md` | This file |
